@@ -2,7 +2,7 @@
 *First assignment of my study in HZ UAC - ICT Course*
 
 # **script.js**
-Yes, the provided script uses the AllOrigins service to handle CORS. AllOrigins is a proxy that allows you to fetch data from an external API without facing CORS issues.
+The provided script uses the AllOrigins service to handle CORS. AllOrigins is a proxy that allows you to fetch data from an external API without facing CORS issues.
 
 Here is a breakdown of the script:
 
