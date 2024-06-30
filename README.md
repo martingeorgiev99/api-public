@@ -1,5 +1,17 @@
-# **Showcase Website**
-*First assignment of my study in HZ UAC - ICT Course*
+2nd year student here.
+**I have not uploaded the API choice or design as it was accepted last school year.**
+This submission is almost identical to the one I uploaded last year - only difference being that CORS is now not required to be disabled in your browser.
+The feedback from last year's submission was that CORS should stay enabled and I should work around it.
+
+The project is hosted at:
+
+https://martingeorgiev99.github.io/api-public/
+
+The API is used under Blog->Blog pages number 2, 3, 4, and 5. It pulls a random comic image and displays it once the blog text is finished.
+
+The site has been adapted for mobile view first.
+
+Thanks for reading, have a good day!
 
 # **script.js**
 The provided script uses the AllOrigins service to handle CORS. AllOrigins is a proxy that allows you to fetch data from an external API without facing CORS issues.
